@@ -1,17 +1,14 @@
-#include <stdlib.h>
-#include <time.h>
-#include <stdio.h>
+#include <Main.h>
 
-/* more headers goes there */
 /**
 * main - Entry point
 *
-* Return: Always 0 (success)
+* Return: Always 0
 */
 
 int main(void)
 {
-	printf("_putchar\n");
+	_putchar("_putchar\n");
 
 	return (0);
 }
